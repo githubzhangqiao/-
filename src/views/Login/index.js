@@ -12,7 +12,7 @@ const Login = () => {
   const navigator = useNavigate();
   return (
     <div className="auth">
-      <h1>登录</h1>
+      <h1>登录111</h1>
       <Form
         className="login-form"
         initialValues={{ remember: true }}
